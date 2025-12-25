@@ -69,7 +69,3 @@ A sophisticated rate-limiting engine that fingerprint devices and IPs to prevent
 2.  **State Synchronization:** Keeping the user's credit balance synced across the Next.js client (client-side) and Flask database (server-side) taught me the importance of webhooks and optimistic UI updates for a snappy user experience.
 3.  **Security First:** Handling payments and auth tokens required strict adherence to security best practices, including encrypting tokens at rest and validating all webhook signatures.
 
----
-
-*   **Deep Analysis:** Using audio analysis features to visualize the "energy" curve of a playlist.
-*   **Mobile App:** Porting the Next.js frontend to React Native.
